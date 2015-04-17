@@ -1,0 +1,15 @@
+{
+  "SSR_GET_CLASSES_REQ": {
+    "CLASS_SEARCH_REQUEST": {
+      "type": "complete",
+      "languageCd": "eng",
+      "STRM": "1154",
+      "SUBJECT": "MA-UY",
+      "INSTITUTION": "NYUNV",
+      "CAMPUS": "WS",
+      "ACAD_CAREER": "UGRD",
+      "SSR_EXACT_MATCH1": "E",
+      "CATALOG_NBR": "1024"
+    }
+  }
+}
